@@ -1,6 +1,10 @@
+<div style="display:flex;gap:1rem;">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pa4080&layout=compact)](https://github.com/pa4080)
 
 ![](https://komarev.com/ghpvc/?username=pa4080&style=flat&color=7957d5)
+</div>
+
 
 <!--
 
