@@ -1,6 +1,9 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=pa4080&style=flat&color=7957d5)
 
 <!--
+
+### Hi there 👋
+
 **pa4080/pa4080** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
