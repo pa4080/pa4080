@@ -4,11 +4,11 @@
 <picture>
   <source
     srcset="https://images.snapix.space/2yAVUQD2uPkqE94lVmeqzjgIG0T/be854d18-b27d-4af1-8532-0d964f1b77a3-1175x772.webp"
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
   <source
     srcset="https://images.snapix.space/2yAVUQD2uPkqE94lVmeqzjgIG0T/90bb8a99-846e-4a94-a15f-2d276deaa815-1175x772.webp"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: light)"
   />
   <img align="left" alt="Spas Z. Spasov's Portfolio Site" width="100%" src="https://images.snapix.space/2yAVUQD2uPkqE94lVmeqzjgIG0T/90bb8a99-846e-4a94-a15f-2d276deaa815-1175x772.webp" />
 </picture>
