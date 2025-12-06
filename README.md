@@ -1,4 +1,23 @@
-<!-- a href="https://github.com/pa4080" --> 
+
+<img align="right" alt="Profile views badge" height="20" width="113" src="https://komarev.com/ghpvc/?username=pa4080&style=flat&color=7957d5">
+<a href="https://www.spasov.me/about" >
+<picture>
+  <source
+    srcset="https://images.snapix.space/2yAVUQD2uPkqE94lVmeqzjgIG0T/be854d18-b27d-4af1-8532-0d964f1b77a3-1175x772.webp"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://images.snapix.space/2yAVUQD2uPkqE94lVmeqzjgIG0T/90bb8a99-846e-4a94-a15f-2d276deaa815-1175x772.webp"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="left" alt="Spas Z. Spasov's Portfolio Site" width="100%" src="https://images.snapix.space/2yAVUQD2uPkqE94lVmeqzjgIG0T/90bb8a99-846e-4a94-a15f-2d276deaa815-1175x772.webp" />
+</picture>
+</a>
+
+
+
+
+
 <!-- 
 <picture>
   <source
@@ -15,27 +34,7 @@
 <img alt="Top Langs" height="165" width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pa4080&layout=compact">
 -->
 
-<a href="https://www.spasov.me/about" >
-<picture>
-  <source
-    srcset="https://images.snapix.space/2yAVUQD2uPkqE94lVmeqzjgIG0T/be854d18-b27d-4af1-8532-0d964f1b77a3-1175x772.webp"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://images.snapix.space/2yAVUQD2uPkqE94lVmeqzjgIG0T/90bb8a99-846e-4a94-a15f-2d276deaa815-1175x772.webp"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="left" alt="Spas Z. Spasov's Portfolio Site" width="100%" src="https://images.snapix.space/2yAVUQD2uPkqE94lVmeqzjgIG0T/90bb8a99-846e-4a94-a15f-2d276deaa815-1175x772.webp" />
-</picture>
-</a>
-
-<div style="margin-top: 1rem;">
-  <img align="left" alt="Profile views badge" height="20" width="113" src="https://komarev.com/ghpvc/?username=pa4080&style=flat&color=7957d5">
-</div>
-
-
 <!--
-
 [![Profile Views](https://komarev.com/ghpvc/?username=pa4080&style=flat&color=7957d5)]
 (https://github.com/pa4080)
 
